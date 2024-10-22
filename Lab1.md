@@ -1,4 +1,4 @@
-# LAB 1: Phân tích kiến trúc, cơ chế, ca sử dụng cho hệ thống "Payroll System"
+# Phân tích kiến trúc, cơ chế, ca sử dụng cho hệ thống "Payroll System"
 
 ## 1. Phân tích kiến trúc
 
