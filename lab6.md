@@ -1,5 +1,3 @@
-
-### Lap6
 # THIẾT KẾ LỚP HỆ THỐNG PAYROLL SYSTEM
 ## Use case Login
 1. Xác định các lớp và các operations liên quan đến use case "Login"
